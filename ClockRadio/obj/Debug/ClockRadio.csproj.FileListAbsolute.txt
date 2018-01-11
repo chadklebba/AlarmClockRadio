@@ -1,0 +1,6 @@
+c:\users\chadk\documents\visual studio 2015\Projects\ClockRadio\ClockRadio\bin\Debug\ClockRadio.exe.config
+c:\users\chadk\documents\visual studio 2015\Projects\ClockRadio\ClockRadio\obj\Debug\ClockRadio.csprojResolveAssemblyReference.cache
+c:\users\chadk\documents\visual studio 2015\Projects\ClockRadio\ClockRadio\bin\Debug\ClockRadio.exe
+c:\users\chadk\documents\visual studio 2015\Projects\ClockRadio\ClockRadio\bin\Debug\ClockRadio.pdb
+c:\users\chadk\documents\visual studio 2015\Projects\ClockRadio\ClockRadio\obj\Debug\ClockRadio.exe
+c:\users\chadk\documents\visual studio 2015\Projects\ClockRadio\ClockRadio\obj\Debug\ClockRadio.pdb
